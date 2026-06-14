@@ -19,7 +19,7 @@ const Footer = () => {
           </div>
         </div>
         <p className="text-center text-xs text-slate-500 dark:text-slate-500 mt-4">
-          © 2024 AI Fitness Coach. All rights reserved. | Powered by Gemini AI
+         © 2024 AI Fitness Coach. Developed by Maheep Ghanshani.
         </p>
       </div>
     </footer>
